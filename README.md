@@ -9,17 +9,11 @@
     </summary>
   </ul>
 
-  <div align="center">
-    <a href="https://www.instagram.com/hub.am25/" target="_blank">
-      <img src="https://img.shields.io/badge/INSTAGRAM-%23F24E1E.svg?style=for-the-badge&logoColor=white">
-    </a>
-    <a href="https://x.com/HubertAquino25" target="_blank">
-      <img src="https://img.shields.io/badge/X-121013?style=for-the-badge&logoColor=white">
-    </a>
-    <a href="https://x.com/HubertAquino25" target="_blank">
-      <img src="https://img.shields.io/badge/LINKEDIN-%23117AC9.svg?style=for-the-badge&logoColor=white">
-    </a>
-  </div>
+  <p align="center">
+    <a href="https://www.instagram.com/hub.am25/"><img align="center" src="https://img.shields.io/badge/INSTAGRAM-%23F24E1E.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <a href="https://x.com/HubertAquino25"><img align="center" src="https://img.shields.io/badge/twitter-121013?style=for-the-badge&logo=x&logoColor=white"></a>
+    <a href="https://x.com/HubertAquino25"><img align="center" src="https://img.shields.io/badge/LINKEDIN-%23117AC9.svg?style=for-the-badge&logoColor=white"></a>
+  </p>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -39,7 +33,7 @@
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
   <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase">
-  <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
   <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
