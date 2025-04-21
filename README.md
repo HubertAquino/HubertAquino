@@ -1,10 +1,10 @@
 <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" width="100%">
 
-<h1 align="center">
-  <img src="https://i.makeagif.com/media/4-04-2024/5w2vXy.gif" width="30">
-  Hubert Ricardo Aquino Maximiliano
-  <img src="https://i.makeagif.com/media/4-04-2024/5w2vXy.gif" width="30">
-</h1>
+<h3 align="center">
+  <img src="https://i.makeagif.com/media/4-04-2024/5w2vXy.gif" width="15">
+  <b>HUBERT RICARDO AQUINO MAXILIANO</b>
+  <img src="https://i.makeagif.com/media/4-04-2024/5w2vXy.gif" width="15">
+</h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
