@@ -1,19 +1,15 @@
 <div id="user-content-toc">
+  <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" width="100%">
+  
   <ul align="center">
     <summary>
       <h1>
         <img src="https://i.makeagif.com/media/4-04-2024/5w2vXy.gif" width="30">
-        HOLA, SOY HUBERT AQUINO
+        Hubert Ricardo Aquino Maximiliano
         <img src="https://i.makeagif.com/media/4-04-2024/5w2vXy.gif" width="30">
       </h1>
     </summary>
   </ul>
-
-  <p align="center">
-    <a href="https://www.instagram.com/hub.am25/"><img align="center" src="https://img.shields.io/badge/INSTAGRAM-%23F24E1E.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
-    <a href="https://x.com/HubertAquino25"><img align="center" src="https://img.shields.io/badge/twitter-121013?style=for-the-badge&logo=x&logoColor=white"></a>
-    <a href="https://x.com/HubertAquino25"><img align="center" src="https://img.shields.io/badge/LINKEDIN-%23117AC9.svg?style=for-the-badge&logoColor=white"></a>
-  </p>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -56,3 +52,9 @@
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<p align="center">
+  <a href="https://www.instagram.com/hub.am25/"><img align="center" src="https://img.shields.io/badge/INSTAGRAM-%23F24E1E.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://x.com/HubertAquino25"><img align="center" src="https://img.shields.io/badge/twitter-121013?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://x.com/HubertAquino25"><img align="center" src="https://img.shields.io/badge/LINKEDIN-%23117AC9.svg?style=for-the-badge&logoColor=white"></a>
+</p>
